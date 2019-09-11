@@ -1,6 +1,6 @@
 # Fraud-Detection
 
-This project detects if a transaction is Fraud or not by using Classification techinques.
+This project detects if a transaction is Fraud or not by using Classification techinques and is made during the Siraj Raval Make money with ML course.
 This data is available on Kaggle website and can be downloaded from there.
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 This is an classification problem where our Machine Learning model will classify the type of glass used.
@@ -23,6 +23,6 @@ Techonlogies Used in This Project
 6. Matplotlib and seaborn
 
 
-
+Submitted as 3rd week assignment.
 
 ** Please download the data from kaggle website before procedding with the notebook. **
